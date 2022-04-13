@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1, GOLPERU1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6xC90-OmzVlgEnHDpkgiUynWddJaty-vw&usqp=CAU", GOLPERU1
 
 https://2203.janjua.pw:8088/adfree/goperuh1/playlist.m3u8?id=107536&pk=ba2ff926bcb624af83e9bf45c7855df159183956d91effa146738400f5eb15c2
 
-#EXTINF:-1, GOLPERU2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6xC90-OmzVlgEnHDpkgiUynWddJaty-vw&usqp=CAU", GOLPERU2
 
 https://2204lw.janjua.pw:8088/adfree/goperuh1/playlist.m3u8?id=107536&pk=ba2ff926bcb624af83e9bf45c7855df159183956d91effa146738400f5eb15c2
 
-#EXTINF:-1, GOLPERU3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6xC90-OmzVlgEnHDpkgiUynWddJaty-vw&usqp=CAU", GOLPERU3
 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=4A0TMENDpG0ftA0Fhb63mg&expires=1649633225&ip=38.25.15.39
 
