@@ -32,7 +32,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxS
 
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
-#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1 tvg-languaje="Spanish", ANIMAL PLANET
 
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
 
@@ -64,7 +64,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
-#EXTINF:-1, HBO HD
+#EXTINF:-1 tvg-languaje="Spanish", HBO HD
 
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
