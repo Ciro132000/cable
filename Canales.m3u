@@ -15,6 +15,9 @@ https://live.obslivestream.com/cdeportivomux/index.m3u8
 #EXTINF:-1, ESPN
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
+#EXTINF:-1, ESPN
+https://dlx1rvhnuclfo.cloudfront.net/hls/9123/index.m3u8?gfh
+
 #EXTINF:-1, ESPN3
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
