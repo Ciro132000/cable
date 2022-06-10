@@ -30,6 +30,9 @@ https://dlx1rvhnuclfo.cloudfront.net/hls/54323/index.m3u8
 #EXTINF:-1, FOX SPORTS 3
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgr4Ey8osQfv0ZXdCXcvYQIgFDHhoHxt-zPw&usqp=CAU", CANAL N
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=TdUKWXoYJRe_rTndX7LT7g&expires=1654888636&ip=38.25.18.39
+
 #EXTINF:-1 tvg-language="Spanish", ANIMAL PLANET
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
 
