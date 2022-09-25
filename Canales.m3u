@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, contacto deportivo 2
+https://live.obslivestream.com/cdeportivo2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6xC90-OmzVlgEnHDpkgiUynWddJaty-vw&usqp=CAU", GOLPERU1
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
