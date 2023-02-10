@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1, contacto deportivo 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1yxZyrP1M05xdKcgmeGUiJcuA4OsN6w_Gg&usqp=CAU", contacto deportivo 2
 https://live.obslivestream.com/cdeportivo2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6xC90-OmzVlgEnHDpkgiUynWddJaty-vw&usqp=CAU", Contacto Deportivo 1
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png", Contacto Deportivo 1
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1, BestCableSport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XLbcO0fGyTlYsY_-PiSBLFy6oB08Br0JIA&usqp=CAU", BestCableSport
 https://ca2.inka.net.pe/bestcablesports/index.m3u8
 
